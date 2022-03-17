@@ -11,7 +11,7 @@
 - 🟢 Aprendendo a utilizar as linguagens: <img height="20em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> | <img height="20em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> | <img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> | <img height="20em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> | <img height="20em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zgoularte&theme=blue-green"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgoularte&theme=blue-green"/>
 </div>
 - ⚡ Fun fact: //life motto
 -               if (sad() === true) {
