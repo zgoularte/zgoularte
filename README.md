@@ -1,4 +1,4 @@
-### Qual a boa? Eu sou o Gustavo Goularte 👋
+### Qual a boa de hoje? Eu sou o Gustavo Goularte 👋
 
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zgoularte&show_icons=true&theme=dracula&include_all_commits=true"/>
