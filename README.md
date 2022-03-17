@@ -1,4 +1,4 @@
-### Qual a boa de hoje? Eu sou o Gustavo Goularte <img height="40em" src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif"/>
+### Qual a boa de hoje? Eu sou o Gustavo Goularte <img height="50em" src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif"/>
 
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zgoularte&show_icons=true&theme=dracula&include_all_commits=true"/>
